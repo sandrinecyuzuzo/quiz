@@ -18,6 +18,19 @@
       "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "John Adams"],
       "correctAnswer": "George Washington"
     },
+
+    {
+        "question": "Who is the  president of the of RWANDA?",
+        "options": ["king rudahigwa", "kayibanda", "the locky", " HE kagame"],
+        "correctAnswer": "HE kagame"
+      },
+
+
+      {
+        "question": "Who is the HEROES of the african ",
+        "options": ["museven", "nelson mandera", "jason statham", " bobo marire"],
+        "correctAnswer": "nelson mandera"
+      },
     {
       "question": "What is the tallest mountain in the world?",
       "options": ["Mount Everest", "K2", "Kangchenjunga", "Lhotse"],
